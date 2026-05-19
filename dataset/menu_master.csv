@@ -1,0 +1,37 @@
+menu_id,name,category,price
+SIG01,Iced Aren Latte,Fore Signature,29000
+SIG02,Hot Aren Latte,Fore Signature,29000
+SIG03,Iced Butterscotch Sea Salt Latte,Fore Signature,33000
+SIG04,Iced Pandan Latte,Fore Signature,29000
+SIG05,Hot Pandan Latte,Fore Signature,29000
+SIG06,Iced Buttercream Latte,Fore Signature,33000
+SIG07,Iced Kopi Dari Tani,Fore Signature,25000
+COF01,Iced Cafe Latte,Coffee,29000
+COF02,Hot Cafe Latte,Coffee,29000
+COF03,Iced Cappuccino,Coffee,29000
+COF04,Iced Bumi Latte,Coffee,25000
+COF05,Iced Malty Latte,Coffee,27000
+COF06,Iced Dirty Matchapresso,Coffee,31000
+COF07,Double Iced Shaken Latte,Coffee,33000
+COF08,Iced Nutty Oat Latte,Coffee,39000
+COF09,Iced Caramel Praline Macchiato,Coffee,34000
+COF10,Hot Espresso,Coffee,21000
+COF11,Iced Buttercream Tiramisu Latte,Coffee,34000
+AMR01,Iced Americano,Americano,23000
+AMR02,Hot Americano,Americano,23000
+AMR03,Iced Manuka Americano,Americano,29000
+AMR04,Iced Triple Peach Americano,Americano,29000
+NCF01,Iced Dark Chocolate,Non Coffee,34000
+NCF02,Iced Matcha Green Tea,Non Coffee,34000
+NCF03,Iced Classic Milo,Non Coffee,25000
+NCF04,Iced Almond Choco,Non Coffee,39000
+NCF05,Iced Matcha Butter Salt Cream,Non Coffee,31000
+TEA01,Iced English Breakfast,Tea,29000
+TEA02,Iced Green Tea Jasmine,Tea,29000
+REF01,Iced Coco Peach Fusion,Refresher,29000
+REF02,Hibiscus Lychee Peach Yakult,Refresher,29000
+DEL01,Mushroom Truffle Sandwich,Fore Deli,42000
+DEL02,Chicken Teriyaki Sandwich,Fore Deli,39000
+DEL03,Almond Croissant,Fore Deli,36000
+DEL04,Pain au Chocolat,Fore Deli,29000
+DEL05,Butter Croissant,Fore Deli,24000
