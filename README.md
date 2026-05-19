@@ -1,1 +1,5 @@
-# fore-coffee-sales-performance-analysis
+# Fore Coffee Sales Performance Analysis
+Data Studio -> https://datastudio.google.com/u/3/reporting/b8dae892-5824-4155-b258-21240b9f9a6e/page/RXJyF?hl=id 
+- Developed end-to-end data pipeline and interactive dashboard using BigQuery, Python, and Data Studio to monitor operational performance across 16.3K+ transactions and 300+ outlets.
+- Identified channel inefficiency costing an estimated Rp 53M/year in third-party commissions (GrabFood, GoFood, ShopeeFood) and proposed a Pick-up App migration strategy targeting 30% revenue share within 6 months.
+- Analyzed daily transaction heatmaps to identify off-peak hours, recommending time-limited bundling campaigns to improve average order value and store utilization.
