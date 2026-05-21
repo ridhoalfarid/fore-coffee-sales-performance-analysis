@@ -6,4 +6,7 @@ The dataset used in this project was provided as a learning dataset by Winata Sy
 - Analyzed daily transaction heatmaps to identify off-peak hours, recommending time-limited bundling campaigns to improve average order value and store utilization.
 
 Data Studio -> https://datastudio.google.com/u/3/reporting/b8dae892-5824-4155-b258-21240b9f9a6e/page/RXJyF?hl=id
-<img width="859" height="483" alt="image" src="https://github.com/user-attachments/assets/b8b0c919-96fb-42fb-a016-a35ef1a0fe3f" />
+
+<div align="center">
+  <img width="859" height="483" alt="image" src="https://github.com/user-attachments/assets/b8b0c919-96fb-42fb-a016-a35ef1a0fe3f" />
+</div>
