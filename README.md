@@ -1,4 +1,6 @@
 # Fore Coffee Sales Performance Analysis
+The dataset used in this project was provided as a learning dataset by Winata Syahputra. The raw dataset is not included in this repository to respect the original data source.
+
 Data Studio -> https://datastudio.google.com/u/3/reporting/b8dae892-5824-4155-b258-21240b9f9a6e/page/RXJyF?hl=id 
 - Developed end-to-end data pipeline and interactive dashboard using BigQuery, Python, and Data Studio to monitor operational performance across 16.3K+ transactions and 300+ outlets.
 - Identified channel inefficiency costing an estimated Rp 53M/year in third-party commissions (GrabFood, GoFood, ShopeeFood) and proposed a Pick-up App migration strategy targeting 30% revenue share within 6 months.
